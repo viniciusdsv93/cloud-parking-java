@@ -1,2 +1,10 @@
 one\digitalinnovation\parking\CloudParkingSpringApplication.class
+one\digitalinnovation\parking\controllers\dto\ParkingCreateDTO.class
+one\digitalinnovation\parking\controllers\mapper\ParkingMapper.class
+one\digitalinnovation\parking\exceptions\ParkingNotFoundException.class
+one\digitalinnovation\parking\controllers\ParkingController.class
+one\digitalinnovation\parking\services\ParkingService.class
+one\digitalinnovation\parking\controllers\dto\ParkingDTO.class
+one\digitalinnovation\parking\config\SwaggerConfig.class
+one\digitalinnovation\parking\models\Parking.class
 one\digitalinnovation\parking\controllers\HelloController.class
